@@ -32,7 +32,7 @@ Bu proje, kullanıcıların rastgele İngilizce alıntıları görebileceği, ok
 
 ## 🤝 Katkıda Bulunma
 
-Katkılarınız benim için önemli. Herhangi bir hata bulursanız veya önerileriniz varsa, lütfen bir [pull request](link) gönderin.
+Katkılarınız benim için önemli. Herhangi bir hata bulursanız veya önerileriniz varsa, bana bildirebilirsiniz.
 
 ## 📞 İletişim
 
