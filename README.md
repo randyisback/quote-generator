@@ -37,3 +37,10 @@ Katkılarınız benim için önemli. Herhangi bir hata bulursanız veya önerile
 ## 📞 İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana [mail](mailto:contact@azadcoder.com) veya [Instagram](https://instagram.com/kodlama.dili) hesabı üzerinden ulaşın.
+
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın. İyi çalışmalar dilerim ^^ 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kodlama.dili/)
