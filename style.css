@@ -114,3 +114,9 @@ ul .speech.active{
   opacity: 0.7;
   pointer-events: none;
 }   
+
+
+::selection {
+    background-color: rgb(0, 0, 0);
+    color: white;  
+}
